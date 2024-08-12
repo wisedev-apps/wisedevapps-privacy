@@ -1,45 +1,50 @@
-Privacy Policy  
+Privacy Policy 
 ----------------
 
-### Introduction  
+### Introduction 
 Our privacy policy will help you understand what information we collect at WiseDev Apps, how WiseDev Apps uses it, and what choices you have.
 WiseDev Apps built the Easy Money - Expense & Budget app as a free app. This SERVICE is provided by WiseDev Apps at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. 
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
-### Information Collection and Use  
-Our app does not collect any personal information directly from you. However, we integrate with AdMob, a third-party advertising service, which might collect certain information from your device for advertising purposes. Please see the sections on Location Information and Device Information for details on what data AdMob might collect.
+### Information Collection and Use
+Our app collects and processes specific types of personal information to enable certain features and enhance user experience:
+* Email Address: Users have the option to provide their email address to facilitate the backup of app data to Google Drive, a cloud storage service provided by Google. This email address is used exclusively for this purpose and is not retained by the app beyond the backup process.
+* Purchase History: Our app integrates with RevenueCat, a third-party subscription management service, which collects purchase history to manage subscription statuses and related services.
+* Photos: Users can optionally attach photos within the app. These photos are stored locally on the device and can also be backed up to Google Drive if the user opts to do so.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Additionally, our app integrates with AdMob, a third-party advertising service, which may collect certain information from your device for advertising purposes. Please refer to the sections on Location Information and Device Information for details on the data AdMob might collect.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+### Cookies 
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory. 
 
-### Location Information  
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
+
+### Location Information 
 Our app uses a third-party advertising service called AdMob to display ads. To improve ad targeting and relevance, AdMob might collect your approximate location information (e.g., IP address) from your device. We do not collect or use this location information ourselves within the Easy Money app. 
 
-### Device Information  
+### Device Information 
 Our app integrates with AdMob, a third-party service for displaying ads. In order to provide targeted advertising and prevent fraud, AdMob might collect certain device information. This information typically includes a unique device identifier but won't include anything that personally identifies you. We do not collect or use this device information ourselves within the Easy Money app. 
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
+### Service Providers 
+We may employ third-party companies and individuals due to the following reasons: 
 * To facilitate our Service;
 * To provide the Service on our behalf;
 * To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+* To assist us in analyzing how our Service is used. 
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Security 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. 
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### Children’s Privacy 
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. 
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### Changes to This Privacy Policy 
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. 
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
+### Contact Us 
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. 
+Contact Information: 
 Email: wisedev.apps@gmail.com
